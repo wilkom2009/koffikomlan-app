@@ -11,8 +11,7 @@ class Education extends Component {
                     <meta name="description" content="Wilson's portfolio web application" />
                 </Helmet>
                 <h1 className="subtopic">My Education</h1>
-                <Widecard title="M.Tech Software Engineering" where="VIT University" from="July 2017" to="Present" />
-                <Widecard title="SSLC | HSC" where="Islamiah Higher Secondary School" from="2011" to="2017" />
+                <Widecard title="IT DUT - Software Engineering" where="Université de Lomé" from="2007" to="2009" />
             </div>
         )
     }

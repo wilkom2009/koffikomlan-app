@@ -12,8 +12,9 @@ class Contact extends Component {
                     <meta name="description" content="Wilson's portfolio web application" />
                 </Helmet>
                 <h1 className="subtopic">Contact Me</h1>
-                <h3>Email  :   naafi96@gmail.com</h3>
-                <h3>Instagram   :   @iam_naafi</h3>
+                <h3>Email  :   koffikomlan01@gmail.com</h3>
+                <h3>Twitter   :   @KomlanWilson</h3>
+                <h3>LinkedIn   :   https://www.linkedin.com/in/wilkom2009/</h3>
                 <Social />
             </div>
         )
