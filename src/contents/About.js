@@ -16,7 +16,7 @@ class About extends Component {
                 <h3>Full Stack Web <u>Developer</u> | Cloud <u>Developer</u></h3>
                 <br></br>
                 <p>I started my journey in developing app since 2010 after graduation. Software development is my center of interest, and by the raising of Cloud computing, I become a Cloud enthousiast because like it or not, 
-                Cloud computing is being on the top Technologies to learn in Computer world! As code geecks, I like to share my code on Github and discuss with Communities whether on Twitter or Discord.
+                Cloud computing is being on the top Technologies to learn in Computer world! As code geek, I like to share my code on Github and discuss with Communities whether on Twitter or Discord.
             </p>
 
             </div>
