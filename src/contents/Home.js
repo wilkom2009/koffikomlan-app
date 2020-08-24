@@ -15,7 +15,7 @@ class Home extends Component {
                     <meta name="description" content="Wilson's portfolio web application" />
                 </Helmet>
                 <img src={profilepic} className="profilepic"></img>
-                <ReactTypingEffect className="typingeffect" text={['I am Wilson KOMLAN', 'I am a full stack developer | Cloud enthousiat']} speed={100} eraseDelay={700} />
+                <ReactTypingEffect className="typingeffect" text={['I am Wilson KOMLAN', 'I am a fullStack developer | Cloud enthousiat']} speed={100} eraseDelay={700} />
                 <Social />
             </div>
         )
